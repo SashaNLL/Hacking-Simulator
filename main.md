@@ -1,6 +1,6 @@
 Let's make a game!
 	name:Hacking Simulator
-	author:Luka Bruinsma
+	by:Luka Bruinsma
 	desc:Hack some nerds and make some bitcoins
 	forum post:1234
 	created:5/10/2018
