@@ -8,3 +8,8 @@ Let's make a game!
 	version:1.0
 Settings
 	background:https://cdn-images-1.medium.com/max/1200/1*ItJb0NOAYJcLuOzrhQXSUQ.jpeg
+	tiling background:https://cdn-images-1.medium.com/max/1200/1*ItJb0NOAYJcLuOzrhQXSUQ.jpeg
+	building cost increase:115%
+	building cost refund:50%
+
+
